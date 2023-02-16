@@ -4,7 +4,9 @@ Training materials for the [European Variation Archive](https://www.ebi.ac.uk/ev
 ### Install and Run
 
 Python 3+ is a prerequisite.
-Otherwise, the only requirements are [Jupyter](https://jupyter.org/) and [Requests](https://requests.readthedocs.io/en/latest/).
+The other requirements are listed in `requirements.txt`, the primary one being [Jupyter](https://jupyter.org/).
+
+You can install and run everything as follows:
 
 ```shell
 # Clone the repo
@@ -23,4 +25,4 @@ jupyter notebook
 
 ### Contact
 
-Email our [helpdesk](mailto:eva-helpdesk@ebi.ac.uk) for support or suggestions.
+Email our [helpdesk](mailto:eva-helpdesk@ebi.ac.uk) for support or feedback.
